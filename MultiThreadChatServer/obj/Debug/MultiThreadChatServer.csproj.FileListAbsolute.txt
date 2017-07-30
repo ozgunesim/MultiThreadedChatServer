@@ -1,0 +1,9 @@
+c:\users\zq\documents\visual studio 2013\Projects\MultiThreadChatServer\MultiThreadChatServer\bin\Debug\MultiThreadChatServer.exe.config
+C:\Users\zq\documents\visual studio 2013\Projects\MultiThreadChatServer\MultiThreadChatServer\bin\Debug\MultiThreadChatServer.exe
+C:\Users\zq\documents\visual studio 2013\Projects\MultiThreadChatServer\MultiThreadChatServer\bin\Debug\MultiThreadChatServer.pdb
+C:\Users\zq\documents\visual studio 2013\Projects\MultiThreadChatServer\MultiThreadChatServer\obj\Debug\MultiThreadChatServer.csprojResolveAssemblyReference.cache
+C:\Users\zq\documents\visual studio 2013\Projects\MultiThreadChatServer\MultiThreadChatServer\obj\Debug\MultiThreadChatServer.Form1.resources
+C:\Users\zq\documents\visual studio 2013\Projects\MultiThreadChatServer\MultiThreadChatServer\obj\Debug\MultiThreadChatServer.Properties.Resources.resources
+C:\Users\zq\documents\visual studio 2013\Projects\MultiThreadChatServer\MultiThreadChatServer\obj\Debug\MultiThreadChatServer.csproj.GenerateResource.Cache
+C:\Users\zq\documents\visual studio 2013\Projects\MultiThreadChatServer\MultiThreadChatServer\obj\Debug\MultiThreadChatServer.exe
+C:\Users\zq\documents\visual studio 2013\Projects\MultiThreadChatServer\MultiThreadChatServer\obj\Debug\MultiThreadChatServer.pdb
